@@ -1,0 +1,1 @@
+<?= \yii\widgets\DetailView::widget(['model'=>$model]); ?>
